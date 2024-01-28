@@ -6,14 +6,21 @@ This project implements a dark pattern detection system using the DistilBERT mod
 
 ## Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Example](#example)
-- [Model Training](#model-training)
-- [Web Scraping](#web-scraping)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
+1. [Installation](#installation)
+2. [Dark Pattern Detection](#dark-pattern-detection)
+   - [Naive Bayes Approach](#naive-bayes-approach)
+     - [Data Preparation](#1-data-preparation)
+     - [Train Naive Bayes Model](#2-train-naive-bayes-model)
+     - [Evaluate and Test Naive Bayes Model](#3-evaluate-and-test-naive-bayes-model)
+   - [DistilBERT Approach](#2-distilbert-approach)
+     - [Data Preparation](#1-data-preparation-1)
+     - [Train DistilBERT Model](#2-train-distilbert-model)
+     - [Evaluate and Test DistilBERT Model](#3-evaluate-and-test-distilbert-model)
+   - [Model Comparison](#model-comparison)
+3. [Dependencies](#dependencies)
+4. [Authors](#authors)
+5. [License](#license)
 
 ## Installation
 
