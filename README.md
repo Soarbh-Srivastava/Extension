@@ -129,14 +129,6 @@ Overall Average Trust Score: 0.49%
 Percentage of Dark Patterns: 100.00%
 Percentage of Overall Average Trust Score: 48.50%
 ```
-
-### Example Output:
-
-```plaintext
-Overall Average Trust Score: 0.49%
-Percentage of Dark Patterns: 100.00%
-Percentage of Overall Average Trust Score: 48.50%
-## Dependencies
 ```
 Python 3.x
 pandas
