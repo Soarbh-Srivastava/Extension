@@ -18,9 +18,10 @@ This project implements a dark pattern detection system using the DistilBERT mod
      - [Train DistilBERT Model](#2-train-distilbert-model)
      - [Evaluate and Test DistilBERT Model](#3-evaluate-and-test-distilbert-model)
    - [Model Comparison](#model-comparison)
-3. [Dependencies](#dependencies)
-4. [Authors](#authors)
-5. [License](#license)
+3. [Web Scraping Results](#Web-Scraping-Results)
+4. [Dependencies](#dependencies)
+5. [Authors](#authors)
+6. [License](#license)
 
 ## Installation
 
@@ -129,7 +130,7 @@ Overall Average Trust Score: 0.49%
 Percentage of Dark Patterns: 100.00%
 Percentage of Overall Average Trust Score: 48.50%
 ```
-## Dependence
+## Dependencies
 ```
 Python 3.x
 pandas
