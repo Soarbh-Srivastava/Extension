@@ -21,3 +21,19 @@ This project implements a dark pattern detection system using the DistilBERT mod
 
    ```bash
    pip install requests beautifulsoup4 torch transformers
+   
+## Dark Pattern Detection
+
+This repository contains code for two different approaches to detect dark patterns - one using a Naive Bayes classifier and the other using DistilBERT, a pre-trained transformer model.
+
+## Naive Bayes Approach
+
+### 1. Data Preparation
+
+Assuming you have a labeled dataset in TSV format (`dataset.tsv`), where the 'text' column contains the textual data and 'label' contains binary labels (0 or 1).
+
+### 2. Train Naive Bayes Model
+
+```python
+# Code for training the Naive Bayes classifier
+# Refer to the Naive_Bayes_Modal.ipynb notebook for detailed implementation
