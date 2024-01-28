@@ -132,6 +132,11 @@ requests
 beautifulsoup4
 ```
 ## Authors
-[Soarbh Srivastava]
-[Varun]
-[Nidhi]
+[Soarbh Srivastava]()
+[Varun]()
+[Nidhi]()
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
