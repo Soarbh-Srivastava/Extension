@@ -120,6 +120,22 @@ Trust Score: 98.66%
 Model used : DistilBERT 
 Highest accuracy : 0.9703
 ```
+## Web Scraping Results
+
+The web scraping results provide insights into the trustworthiness of the content obtained from a specific webpage. The analysis includes an overall average trust score and the percentage of identified dark patterns.
+
+```plaintext
+Overall Average Trust Score: 0.49%
+Percentage of Dark Patterns: 100.00%
+Percentage of Overall Average Trust Score: 48.50%
+```
+
+### Example Output:
+
+```plaintext
+Overall Average Trust Score: 0.49%
+Percentage of Dark Patterns: 100.00%
+Percentage of Overall Average Trust Score: 48.50%
 ## Dependencies
 ```
 Python 3.x
